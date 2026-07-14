@@ -5,13 +5,26 @@
 # {}{img_left}{media/shuze.JPG}{G.}{250}
 
 Shuze Wang, Ph.D.\n
-Research Scientist\n
+Senior Bioinformatics Specialist\n
 [https://www.massgeneral.org/ Massachusetts General Hospital]\n
 # [https://medicine.umich.edu/dept/computational-medicine-bioinformatics/ Department of Computational Medicine and Bioinformatics],\n
 # [https://umich.edu/ University of Michigan at Ann Arbor]\n
 E-mail: shuzwang-at-umich-dot-edu
 # ~~~
 
+== Employment
+
+- Bioinformatics Specialist II (2025 - present) / Bioinformatics Specialist I (2023 - 2025),
+Molecular Pathology Unit, [https://www.massgeneral.org/ Massachusetts General Hospital] and [https://www.broadinstitute.org/ Broad Institute], Boston, MA.
+
+- Graduate Student Research Assistant, 2019 - 2023, Department of Computational Medicine & Bioinformatics, [https://umich.edu/ University of Michigan], Ann Arbor, MI.
+Advisors: [https://medicine.umich.edu/dept/khri/joerg-waldhaus-phd Joerg Waldhaus] and [https://jieliu6.github.io/ Jie Liu].
+
+- Research Assistant, 2017 - 2018, Department of Computational Medicine & Bioinformatics, [https://umich.edu/ University of Michigan], Ann Arbor, MI.
+Advisors: Stephen C. J. Parker and Jacob Kitzman.
+
+- Research Assistant, 2017, Department of Computational Medicine & Bioinformatics, [https://umich.edu/ University of Michigan], Ann Arbor, MI.
+Advisor: Maureen A. Sartor.
 
 == Education
 - Ph.D. in Bioinformatics, 2018 - 2023, [https://umich.edu/ University of Michigan], Ann Arbor, MI.\n
@@ -23,6 +36,22 @@ Thesis advisors: Professors [https://medicine.umich.edu/dept/khri/joerg-waldhaus
 
 == Publications 
 === Journal Publications
+
+- Plasmacytic lineage unifies plasmablastic and ALK-positive large B-cell lymphomas and reveals targetable vulnerabilities in CD19-negative large B-cell lymphomas,
+J. Duffy, ..., *S. Wang*, ..., A. Louissaint,
+*Blood Cancer Discovery* (under revision).
+
+- [https://www.nature.com/articles/s41467-026-73546-7 MYOD1 mutation drives cancer stem cell pathways and therapy-resistance in spindle cell/sclerosing rhabdomyosarcoma],\n
+Y. Wei, ..., *S. Wang*, ..., D. Langenau,\n
+*Nature Communications, 2026*
+
+- [https://doi.org/10.1073/pnas.2426739122 Retinoic acid receptor assembly dynamics governs dual functions in cochlear organogenesis],
+S. Chakraborty, *S. Wang*, J. Ruhala, H. Mehling, J. Liu, J. Waldhaus,
+*PNAS*, Vol. 122(26), e2426739122, 2025.
+
+- [https://doi.org/10.1097/MAO.0000000000004455 Unique cell type-specific signaling patterns define cholesteatoma],
+J. Waldhaus, *S. Wang*, C. W. Welch,
+*Otology & Neurotology*, Vol. 46(7), e285-e292, 2025.
 
 - [https://www.cell.com/developmental-cell/abstract/S1534-5807(24)00196-5 3D reconstruction of the mouse cochlea from scRNA-seq data suggests morphogen-based principles in apex-to-base specification], \n
 *S. Wang*, S. Chakraborty, Y. Fu, M. P. Lee, J. Liu, J. Waldhaus, \n
